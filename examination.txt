@@ -296,6 +296,8 @@ mysql> select * from student;
 +-----------+-----------+--------+------+------------+
 1 row in set (0.00 sec)
 
+                        SECTION C
+
 QUESTION 9
 
 create table EMPLOYEE (employee_id varchar(6),first_name varchar(20),lastname varchar(30),email varchar(30),phone_number varchar(15),hired_date date,job_id varchar(20),salary varchar(10),commission_pct varchar(20),manager_id varchar(5),department_id varchar(10));
